@@ -1,0 +1,459 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Gluon",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gluon"
+    },
+    {
+      "name": "UpQuarkRed",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "up_quark_red"
+    },
+    {
+      "name": "DownQuarkRed",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "down_quark_red"
+    },
+    {
+      "name": "UpQuarkBlue",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "up_quark_blue"
+    },
+    {
+      "name": "DownQuarkBlue",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "down_quark_blue"
+    },
+    {
+      "name": "DownQuarkGreen",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "down_quark_green"
+    },
+    {
+      "name": "UpQuarkGreen",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "up_quark_green"
+    },
+    {
+      "name": "Proton",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "proton"
+    },
+    {
+      "name": "ProtonCraft1",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "proton_craft_1"
+    },
+    {
+      "name": "ProtonCraft2",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "proton_craft_2"
+    },
+    {
+      "name": "ProtonCraft3",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "proton_craft_3"
+    },
+    {
+      "name": "GluonField",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gluon_field"
+    },
+    {
+      "name": "GluonFieldDrop",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gluon_field_drop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ElementaryParticles",
+      "type": "tab",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elementary_particles"
+    },
+    {
+      "name": "QuarkFieldRedDrop",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quark_field_red_drop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "QuarkFieldRed",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quark_field_red"
+    },
+    {
+      "name": "QuarkFieldBlue",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quark_field_blue"
+    },
+    {
+      "name": "QuarkFieldBlueDrop",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quark_field_blue_drop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "QuarkFieldGreenDrop",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quark_field_green_drop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "QuarkFieldGreen",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quark_field_green"
+    },
+    {
+      "name": "Electron",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electron"
+    },
+    {
+      "name": "Photon",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "photon"
+    },
+    {
+      "name": "EMFieldDrop",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "em_field_drop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ElectronFieldDrop",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electron_field_drop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ElectronField",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electron_field"
+    },
+    {
+      "name": "EMField",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "em_field"
+    },
+    {
+      "name": "Neutron",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neutron"
+    },
+    {
+      "name": "Hydrogen",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hydrogen"
+    },
+    {
+      "name": "HydrogenCraft",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hydrogen_craft"
+    },
+    {
+      "name": "NeutronCraft1",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neutron_craft_1"
+    },
+    {
+      "name": "NeutronCraft2",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neutron_craft_2"
+    },
+    {
+      "name": "NeutronCraft3",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neutron_craft_3"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.elementary_craft_showcase.up_quark_red": "Red up quark",
+      "block.elementary_craft_showcase.quark_field_green": "Quark Field Green",
+      "block.elementary_craft_showcase.neutron": "Neutron",
+      "block.elementary_craft_showcase.hydrogen": "Hydrogen",
+      "block.elementary_craft_showcase.gluon_field": "Gluon Field",
+      "block.elementary_craft_showcase.em_field": "Electromagnetic Field",
+      "block.elementary_craft_showcase.quark_field_blue": "Quark Field Blue",
+      "block.elementary_craft_showcase.quark_field_red": "Quark Field Red",
+      "itemGroup.tabelementary_particles": "Elementary Particles",
+      "block.elementary_craft_showcase.down_quark_blue": "Blue down quark",
+      "block.elementary_craft_showcase.photon": "Photon",
+      "block.elementary_craft_showcase.gluon": "Gluon",
+      "block.elementary_craft_showcase.down_quark_red": "Red down quark",
+      "block.elementary_craft_showcase.up_quark_green": "Green up quark",
+      "block.elementary_craft_showcase.electron": "Electron",
+      "block.elementary_craft_showcase.up_quark_blue": "Blue up quark",
+      "block.elementary_craft_showcase.down_quark_green": "Green down quark",
+      "block.elementary_craft_showcase.proton": "Proton",
+      "block.elementary_craft_showcase.electron_field": "Electron Field"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "elementary_craft_showcase",
+    "modName": "Elementary Craft_showcase",
+    "version": "1.0.0",
+    "author": "elstd, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.elementarycraftshowcase",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementary_craft_showcase:blocks/qft1",
+    "up": "elementary_craft_showcase:blocks/qft6",
+    "north": "elementary_craft_showcase:blocks/qft3",
+    "east": "elementary_craft_showcase:blocks/qft2",
+    "south": "elementary_craft_showcase:blocks/qft5",
+    "west": "elementary_craft_showcase:blocks/qft4",
+    "particle": "elementary_craft_showcase:blocks/qft1"
+  }
+}

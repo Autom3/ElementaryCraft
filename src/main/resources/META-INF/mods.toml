@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="elementary_craft_showcase"
+version="1.0.0"
+displayName="Elementary Craft_showcase"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="elstd, MCreator"
+
+[[dependencies.elementary_craft_showcase]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

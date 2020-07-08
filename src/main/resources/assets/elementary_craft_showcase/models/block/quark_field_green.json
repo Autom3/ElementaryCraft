@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "elementary_craft_showcase:blocks/greenupquark16",
+    "particle": "elementary_craft_showcase:blocks/greenupquark16"
+  }
+}

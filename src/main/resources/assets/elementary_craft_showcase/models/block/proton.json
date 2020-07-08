@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementary_craft_showcase:blocks/proton6",
+    "up": "elementary_craft_showcase:blocks/proton1",
+    "north": "elementary_craft_showcase:blocks/proton3",
+    "east": "elementary_craft_showcase:blocks/proton2",
+    "south": "elementary_craft_showcase:blocks/proton5",
+    "west": "elementary_craft_showcase:blocks/proton4",
+    "particle": "elementary_craft_showcase:blocks/proton6"
+  }
+}

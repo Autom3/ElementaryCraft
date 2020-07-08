@@ -1,0 +1,37 @@
+{
+  "group": "elementary_craft_showcase",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elementary_craft_showcase:down_quark_red"
+    },
+    {
+      "item": "elementary_craft_showcase:up_quark_blue"
+    },
+    {
+      "item": "elementary_craft_showcase:up_quark_green"
+    },
+    {
+      "item": "elementary_craft_showcase:gluon"
+    },
+    {
+      "item": "elementary_craft_showcase:gluon"
+    },
+    {
+      "item": "elementary_craft_showcase:gluon"
+    },
+    {
+      "item": "elementary_craft_showcase:gluon"
+    },
+    {
+      "item": "elementary_craft_showcase:gluon"
+    },
+    {
+      "item": "elementary_craft_showcase:gluon"
+    }
+  ],
+  "result": {
+    "item": "elementary_craft_showcase:proton",
+    "count": 1
+  }
+}

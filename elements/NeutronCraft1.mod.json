@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:UpQuarkRed"
+      },
+      {
+        "value": "CUSTOM:DownQuarkBlue"
+      },
+      {
+        "value": "CUSTOM:DownQuarkGreen"
+      },
+      {
+        "value": "CUSTOM:Gluon"
+      },
+      {
+        "value": "CUSTOM:Gluon"
+      },
+      {
+        "value": "CUSTOM:Gluon"
+      },
+      {
+        "value": "CUSTOM:Gluon"
+      },
+      {
+        "value": "CUSTOM:Gluon"
+      },
+      {
+        "value": "CUSTOM:Gluon"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Neutron"
+    },
+    "name": "neutron_craft_1",
+    "namespace": "mod"
+  }
+}

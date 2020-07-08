@@ -1,0 +1,19 @@
+{
+  "group": "elementary_craft_showcase",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elementary_craft_showcase:electron"
+    },
+    {
+      "item": "elementary_craft_showcase:proton"
+    },
+    {
+      "item": "elementary_craft_showcase:photon"
+    }
+  ],
+  "result": {
+    "item": "elementary_craft_showcase:hydrogen",
+    "count": 1
+  }
+}
