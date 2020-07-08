@@ -11,3 +11,4 @@ build/
 
 # Minecraft client/server files
 run/
+!run/saves/Demo
